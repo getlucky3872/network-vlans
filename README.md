@@ -4,7 +4,7 @@ We are building a network, with some degree of complexity.
 Feel free to pick and choose the sections of this tutorial which apply to your use case.
 
 ## Who is this for?
-For the legends who aren't afraid to build cool stuff and brag to their mates about it.
+For the legends who aren't afraid to build cool stuff and brag to their mates about it.  
 Also, for anyone looking to build/enhance their home/home lab/home office/small office network.
 
 ## By the end of this guide, you will be able to achieve the following:
